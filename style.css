@@ -1,5 +1,14 @@
+html, body {
+    height: 100%
+}
+
+body {
+    display: flex;
+}
+
 .vertical-center {
-    margin-top: 3%;
+    margin: auto;
+    transition: all 1s;
 }
 
 footer {
